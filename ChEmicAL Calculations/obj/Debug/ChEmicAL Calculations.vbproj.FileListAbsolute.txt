@@ -1,0 +1,10 @@
+c:\users\ebere\documents\visual studio 2013\Projects\ChEmicAL Calculations\ChEmicAL Calculations\bin\Debug\ChEmicAL Calculations.exe.config
+c:\users\ebere\documents\visual studio 2013\Projects\ChEmicAL Calculations\ChEmicAL Calculations\bin\Debug\ChEmicAL Calculations.exe
+c:\users\ebere\documents\visual studio 2013\Projects\ChEmicAL Calculations\ChEmicAL Calculations\bin\Debug\ChEmicAL Calculations.pdb
+c:\users\ebere\documents\visual studio 2013\Projects\ChEmicAL Calculations\ChEmicAL Calculations\bin\Debug\ChEmicAL Calculations.xml
+c:\users\ebere\documents\visual studio 2013\Projects\ChEmicAL Calculations\ChEmicAL Calculations\obj\Debug\ChEmicAL_Calculations.Form1.resources
+c:\users\ebere\documents\visual studio 2013\Projects\ChEmicAL Calculations\ChEmicAL Calculations\obj\Debug\ChEmicAL_Calculations.Resources.resources
+c:\users\ebere\documents\visual studio 2013\Projects\ChEmicAL Calculations\ChEmicAL Calculations\obj\Debug\ChEmicAL Calculations.vbproj.GenerateResource.Cache
+c:\users\ebere\documents\visual studio 2013\Projects\ChEmicAL Calculations\ChEmicAL Calculations\obj\Debug\ChEmicAL Calculations.exe
+c:\users\ebere\documents\visual studio 2013\Projects\ChEmicAL Calculations\ChEmicAL Calculations\obj\Debug\ChEmicAL Calculations.xml
+c:\users\ebere\documents\visual studio 2013\Projects\ChEmicAL Calculations\ChEmicAL Calculations\obj\Debug\ChEmicAL Calculations.pdb
